@@ -13,4 +13,4 @@ git commit -m "auto commit"
 git push origin main
 
 # Commit işlemi tamamlandıktan sonra Terminal'i kapat
-# osascript -e 'tell application "Terminal" to close first window'
+osascript -e 'tell application "Terminal" to close first window'
